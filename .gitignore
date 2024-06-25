@@ -1,0 +1,25 @@
+# Dependencies
+uhx-catalog/node_modules/
+js/node_modules/
+
+# Production
+uhx-catalog/build
+uhx-catalog/public/schemas
+
+# Generated files
+uhx-catalog/.next
+uhx-catalog/out
+
+
+# Misc
+uhx-catalog/.DS_Store
+uhx-catalog/.env.local
+uhx-catalog/.env.development.local
+uhx-catalog/.env.test.local
+uhx-catalog/.env.production.local
+
+uhx-catalog/npm-debug.log*
+uhx-catalog/yarn-debug.log*
+uhx-catalog/yarn-error.log*
+
+uhx-catalog/.eventcatalog-core
